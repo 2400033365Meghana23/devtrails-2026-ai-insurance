@@ -1,16 +1,19 @@
 🚀 DEVTrails 2026 – AI-Powered Parametric Insurance Platform
 
  🌍 Problem Statement
+ 
 E-commerce delivery partners (Amazon/Flipkart) rely on daily deliveries for their income. However, external disruptions like heavy rain, traffic congestion, and curfews can prevent them from completing deliveries, leading to significant income loss.
 
 Currently, there is no system that automatically compensates these workers for such unavoidable disruptions.
 
 
 👤 Persona
+
 We focus on **e-commerce delivery partners (Amazon/Flipkart)** who deliver packages across cities. Their earnings depend on completed deliveries, and any disruption in logistics or mobility directly impacts their income.
 
 
 💡 Our Solution
+
 We propose an **AI-powered parametric insurance platform** that:
 
 ✔ Monitors real-world conditions (weather, traffic, disruptions)  
