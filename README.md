@@ -100,6 +100,7 @@ Our system uses **multi-layered validation** combining behavioral, device, and e
 🤖 AI-Based Anomaly Detection
 
 Machine learning models analyze historical delivery and claim patterns. Any unusual behavior is flagged as suspicious and reviewed.
+AI models analyze historical delivery patterns and real-time data to calculate risk scores and detect anomalies in user behavior for fraud prevention.
 
 
  🛠️ Tech Stack
